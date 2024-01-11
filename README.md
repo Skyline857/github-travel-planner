@@ -1,4 +1,68 @@
-# Getting Started with Create React App
+# Project name and Introduction
+
+Trip Planner
+
+Welcome to Trip Planner, your ultimate companion for seamless travel planning! Trip Planner is a feature-rich web and mobile based application designed to simplify and enhance your travel experience. Create your customizable travel list-add or delete anytime you want!
+
+Whether you're a seasoned globetrotter or planning your first adventure, Trip Planner has got you covered.
+
+Key Features:
+
+Intuitive Itinerary Planning: Effortlessly organize your trip with our user-friendly itinerary planner. Input your destinations and let Trip Planner create a detailed and customizable travel schedule.
+
+I'm planning to upgrade this application, by adding new features like dates and activities onsite for the users to have it more detailed and customizable.
+
+## Authors
+
+- [@Skyline857](https://github.com/Skyline857)
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#91B3FA] |
+| Example Color | ![#f0f0f0] |
+| Example Color | ![#brown] |
+| Example Color | ![#red]  |
+
+
+## 🚀 About Me
+
+Greetings! 
+
+I'm Inna Lavrova, a seasoned professional with hands-on experience in Software Quality Assurance (SQA) and in the freelance world as a Front-end Developer. My journey in the software industry has equipped me with a strong foundation in SQA methodologies and practices, while my recent focus on freelance work has allowed me to dive into the exciting world of front-end development.
+
+Transitioning into freelance work as a Front-end Developer, I've embraced the opportunity to craft visually appealing and functional user interfaces. Proficient in HTML, CSS, and JavaScript, I bring creativity and technical expertise to every project.
+
+My journey reflects my commitment to continuous learning and adaptability. Whether ensuring software quality or crafting engaging user experiences, I am passionate about delivering results that exceed expectations.
+
+Let's connect and explore how my unique blend of SQA and front-end development skills can elevate your projects!
+
+## 🔗 Links
+[!(https://github.com/Skyline857?tab=projects)]
+
+[!(https://www.linkedin.com/in/innalavrova/)](https://www.linkedin.com/)
+
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on creating React apps
+
+🧠 I'm currently learning React JS
+
+👯‍♀️ I'm looking to collaborate on https://github.com/Skyline857
+
+🤔 I'm looking for help with...
+
+📫 How to reach me inna.v.lavrova@gmail.com
+
+😄 Pronouns She/Her
+
+⚡️ Fun fact...The one who never gives up!
+
+
+
+# Installation. Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
