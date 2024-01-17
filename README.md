@@ -64,16 +64,16 @@ Let's connect and explore how my unique blend of SQA and front-end development s
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##How to build the App:
+## How to build the App:
 1. Clone the repository
-
+```
 $ git clone https://github.com/Skyline857/github-travel-planner.git 
-
+```
 2. Npm install and start
-
+```
 $ npm install
 $ npm start
-
+```
 
 ## Available Scripts
 
