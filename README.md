@@ -52,8 +52,6 @@ Let's connect and explore how my unique blend of SQA and front-end development s
 
 👯‍♀️ I'm looking to collaborate on https://github.com/Skyline857
 
-🤔 I'm looking for help with...
-
 📫 How to reach me inna.v.lavrova@gmail.com
 
 😄 Pronouns She/Her
@@ -65,6 +63,17 @@ Let's connect and explore how my unique blend of SQA and front-end development s
 # Installation. Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+##How to build the App:
+1. Clone the repository
+
+$ git clone https://github.com/Skyline857/github-travel-planner.git 
+
+2. Npm install and start
+
+$ npm install
+$ npm start
+
 
 ## Available Scripts
 
